@@ -1,6 +1,6 @@
 # Utilizing Terraform and Terraform Cloud Modules for Multi-Region AWS Deployment
 
-For an in-depth discussion of the project architecture please refer to our detailed [blog post]().
+For an in-depth discussion of the project architecture please refer to our detailed [blog post](https://blog.bespinian.io/posts/terraform-aws-multi-region/).
 
 ## AWS single-region deployment
 ```
